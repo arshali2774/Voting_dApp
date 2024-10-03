@@ -21,8 +21,8 @@ This project is a decentralized voting application built with React and Ethereum
 1. Clone this repository:
 
    ```
-   git clone https://github.com/your-username/voting-app.git
-   cd voting-app
+   git clone https://github.com/arshali2774/Voting_dApp.git
+   cd Voting_dApp
    ```
 
 2. Install dependencies:
